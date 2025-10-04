@@ -1,0 +1,65 @@
+Introduction:
+A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently. Choosing the right data structure is crucial for solving a problem effectively, as it directly impacts the performance of algorithms. Data structures provide a means to manage large amounts of data for tasks such as storage, retrieval, and manipulation.
+
+Classification of Data Structures:
+Data structures can be broadly classified into two types:
+
+Primitive Data Structures:
+These are the basic building blocks for other data structures. Examples include:
+
+int, float, char, boolean
+
+Variables used to store single values
+
+Non-Primitive Data Structures:
+These store collections of data and are more complex:
+
+Linear Data Structures: Data elements are arranged sequentially. Examples:
+
+Array: Fixed-size collection of elements of the same type.
+
+Linked List: Collection of nodes, where each node points to the next.
+
+Stack: Follows LIFO (Last In First Out) principle; insert and remove from the top.
+
+Queue: Follows FIFO (First In First Out) principle; insert at rear, remove from front.
+
+Non-Linear Data Structures: Data elements are not sequential; relationships can be hierarchical or networked. Examples:
+
+Tree: Hierarchical structure with a root node and child nodes.
+
+Graph: Collection of nodes connected by edges; can represent networks.
+
+Operations on Data Structures:
+Data structures allow various operations, depending on the type:
+
+Insertion: Adding an element
+
+Deletion: Removing an element
+
+Traversal: Visiting each element systematically
+
+Searching: Finding an element
+
+Sorting: Arranging elements in order
+
+Advantages of Data Structures:
+
+Efficient data storage and retrieval
+
+Reduced memory wastage
+
+Simplifies complex problems
+
+Helps in implementing algorithms effectively
+
+Applications:
+
+Databases use trees and hash tables for indexing.
+
+Stacks are used in undo functionality and expression evaluation.
+
+Queues are used in job scheduling and buffering.
+
+Graphs are used in social networks, routing, and maps.
+

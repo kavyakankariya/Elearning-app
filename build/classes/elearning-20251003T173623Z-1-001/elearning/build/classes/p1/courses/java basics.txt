@@ -1,0 +1,35 @@
+Introduction:
+Java is a high-level, object-oriented, platform-independent programming language developed by Sun Microsystems (now Oracle) in 1995. It is designed to be simple, secure, robust, and portable. Java follows the principle of “Write Once, Run Anywhere” (WORA) through the Java Virtual Machine (JVM), which allows Java programs to run on any operating system without modification. Java also supports multithreading, automatic memory management, and strong exception handling.
+Java Environment:
+To work with Java, you need the JDK (Java Development Kit) for writing, compiling, and running programs. The JRE (Java Runtime Environment) is required to execute Java programs, and the JVM (Java Virtual Machine) converts Java bytecode into machine code to run it on different platforms.
+Structure of a Java Program:
+A typical Java program consists of a class and a main method. The class defines the blueprint, and the main method serves as the entry point. For example, System.out.println() is used to print output to the console.
+Data Types:
+Java supports primitive data types like int, float, double, char, boolean, byte, short, and long for basic values. Non-primitive types include Strings, Arrays, Classes, and Interfaces for more complex data. Variables in Java store data and can be local (inside methods), instance(belonging to objects), or static (belonging to the class).
+Operators:
+Java uses different types of operators for calculations and logic:
+● Arithmetic Operators: +, -, *, /, %
+● Relational Operators: ==, !=, &gt;, &lt;, &gt;=, &lt;=
+● Logical Operators: &amp;&amp;, ||, !
+● Assignment Operators: =, +=, -=, etc.
+● Unary Operators: ++, --
+● Ternary Operator: ? :
+
+Control Structures:
+Java provides decision-making and loop constructs. If-else statements are used for conditional logic. Switch-case statements help select one option from many. Loops like for, while, and do-while allow repeated execution of code blocks until a condition is met.
+Arrays:
+Arrays store multiple values of the same type. Java supports single-dimensional and multi-dimensional arrays. Elements are accessed using indexes starting from 0.
+Methods/Functions:
+Methods are blocks of code performing specific tasks. They can take inputs (parameters) and return outputs. Methods help in organizing code and reusing logic.
+Object-Oriented Concepts:
+Java is fundamentally object-oriented, based on the following principles:
+● Class: Blueprint of objects
+● Object: Instance of a class
+● Inheritance: Acquire properties from another class
+● Polymorphism: Ability to take multiple forms (method overloading/overriding)
+● Encapsulation: Hiding internal data using private variables
+● Abstraction: Hiding unnecessary details and showing only essential features
+
+Input and Output:
+Java uses the Scanner class to take input from users and System.out.println() or
+System.out.print() for output. Formatted output can be done using System.out.printf().
